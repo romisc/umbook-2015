@@ -1,0 +1,2 @@
+Hay dos carpetas para diferenciar los
+casos de uso en los que interviene el usuario o el administrador
