@@ -1,3 +1,0 @@
-Ahí estan los casos de uso exportados a JPG y el archivo de starUML para
-modificar y seguir agregando modelos.
-Si alguien modifica algo, avise... asi todos entendemos.
